@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\yijin\Downloads\cmake-3.15.5\cmake-3.15.5\Tests\Tutorial\cmake-tutorial\Step4_build\CMakeFiles\622a014774b8b020e02f88bccc935216\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E1959622-1C42-39C0-8C3D-4A656F39E402}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,8 @@
+C:/Users/yijin/Downloads/cmake-3.15.5/cmake-3.15.5/Tests/Tutorial/cmake-tutorial/Step4_build/CMakeFiles/Tutorial.dir
+C:/Users/yijin/Downloads/cmake-3.15.5/cmake-3.15.5/Tests/Tutorial/cmake-tutorial/Step4_build/CMakeFiles/INSTALL.dir
+C:/Users/yijin/Downloads/cmake-3.15.5/cmake-3.15.5/Tests/Tutorial/cmake-tutorial/Step4_build/CMakeFiles/RUN_TESTS.dir
+C:/Users/yijin/Downloads/cmake-3.15.5/cmake-3.15.5/Tests/Tutorial/cmake-tutorial/Step4_build/CMakeFiles/ALL_BUILD.dir
+C:/Users/yijin/Downloads/cmake-3.15.5/cmake-3.15.5/Tests/Tutorial/cmake-tutorial/Step4_build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/yijin/Downloads/cmake-3.15.5/cmake-3.15.5/Tests/Tutorial/cmake-tutorial/Step4_build/MathFunctions/CMakeFiles/MathFunctions.dir
+C:/Users/yijin/Downloads/cmake-3.15.5/cmake-3.15.5/Tests/Tutorial/cmake-tutorial/Step4_build/MathFunctions/CMakeFiles/INSTALL.dir
+C:/Users/yijin/Downloads/cmake-3.15.5/cmake-3.15.5/Tests/Tutorial/cmake-tutorial/Step4_build/MathFunctions/CMakeFiles/RUN_TESTS.dir

@@ -1,0 +1,147 @@
+Start testing: Dec 06 12:43 China Standard Time
+----------------------------------------------------------
+Test not available without configuration.  (Missing "-C <config>"?)
+1/9 Testing: Runs
+1/9 Test: Runs
+Command: "NOT_AVAILABLE"
+Directory: C:/Users/yijin/Downloads/cmake-3.15.5/cmake-3.15.5/Tests/Tutorial/cmake-tutorial/Step4_build
+"Runs" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Runs" end time: Dec 06 12:43 China Standard Time
+"Runs" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Test not available without configuration.  (Missing "-C <config>"?)
+2/9 Testing: Usage
+2/9 Test: Usage
+Command: "NOT_AVAILABLE"
+Directory: C:/Users/yijin/Downloads/cmake-3.15.5/cmake-3.15.5/Tests/Tutorial/cmake-tutorial/Step4_build
+"Usage" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Usage" end time: Dec 06 12:43 China Standard Time
+"Usage" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Test not available without configuration.  (Missing "-C <config>"?)
+3/9 Testing: Comp4
+3/9 Test: Comp4
+Command: "NOT_AVAILABLE"
+Directory: C:/Users/yijin/Downloads/cmake-3.15.5/cmake-3.15.5/Tests/Tutorial/cmake-tutorial/Step4_build
+"Comp4" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Comp4" end time: Dec 06 12:43 China Standard Time
+"Comp4" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Test not available without configuration.  (Missing "-C <config>"?)
+4/9 Testing: Comp9
+4/9 Test: Comp9
+Command: "NOT_AVAILABLE"
+Directory: C:/Users/yijin/Downloads/cmake-3.15.5/cmake-3.15.5/Tests/Tutorial/cmake-tutorial/Step4_build
+"Comp9" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Comp9" end time: Dec 06 12:43 China Standard Time
+"Comp9" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Test not available without configuration.  (Missing "-C <config>"?)
+5/9 Testing: Comp5
+5/9 Test: Comp5
+Command: "NOT_AVAILABLE"
+Directory: C:/Users/yijin/Downloads/cmake-3.15.5/cmake-3.15.5/Tests/Tutorial/cmake-tutorial/Step4_build
+"Comp5" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Comp5" end time: Dec 06 12:43 China Standard Time
+"Comp5" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Test not available without configuration.  (Missing "-C <config>"?)
+6/9 Testing: Comp7
+6/9 Test: Comp7
+Command: "NOT_AVAILABLE"
+Directory: C:/Users/yijin/Downloads/cmake-3.15.5/cmake-3.15.5/Tests/Tutorial/cmake-tutorial/Step4_build
+"Comp7" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Comp7" end time: Dec 06 12:43 China Standard Time
+"Comp7" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Test not available without configuration.  (Missing "-C <config>"?)
+7/9 Testing: Comp25
+7/9 Test: Comp25
+Command: "NOT_AVAILABLE"
+Directory: C:/Users/yijin/Downloads/cmake-3.15.5/cmake-3.15.5/Tests/Tutorial/cmake-tutorial/Step4_build
+"Comp25" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Comp25" end time: Dec 06 12:43 China Standard Time
+"Comp25" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Test not available without configuration.  (Missing "-C <config>"?)
+8/9 Testing: Comp-25
+8/9 Test: Comp-25
+Command: "NOT_AVAILABLE"
+Directory: C:/Users/yijin/Downloads/cmake-3.15.5/cmake-3.15.5/Tests/Tutorial/cmake-tutorial/Step4_build
+"Comp-25" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Comp-25" end time: Dec 06 12:43 China Standard Time
+"Comp-25" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Test not available without configuration.  (Missing "-C <config>"?)
+9/9 Testing: Comp0.0001
+9/9 Test: Comp0.0001
+Command: "NOT_AVAILABLE"
+Directory: C:/Users/yijin/Downloads/cmake-3.15.5/cmake-3.15.5/Tests/Tutorial/cmake-tutorial/Step4_build
+"Comp0.0001" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Comp0.0001" end time: Dec 06 12:43 China Standard Time
+"Comp0.0001" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 06 12:43 China Standard Time

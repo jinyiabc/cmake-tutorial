@@ -1,0 +1,2 @@
+C:/Users/yijin/Downloads/cmake-3.15.5/cmake-3.15.5/Tests/Tutorial/cmake-tutorial/Step4/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_f296c.dir
+C:/Users/yijin/Downloads/cmake-3.15.5/cmake-3.15.5/Tests/Tutorial/cmake-tutorial/Step4/CMakeFiles/CMakeTmp/CMakeFiles/ALL_BUILD.dir
